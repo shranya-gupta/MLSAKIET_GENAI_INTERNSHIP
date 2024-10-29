@@ -31,8 +31,10 @@ Code Explanation
 
 Example
 
-Enter your prompt: "Once upon a time"
+Enter your prompt:
+"Once upon a time"
 "Once upon a time, in a land far away, there lived a young princess who loved to explore the forest."
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
